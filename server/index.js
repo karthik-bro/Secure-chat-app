@@ -26,6 +26,6 @@ io.on("connection", (socket) => {
   });
 });
 
-server.listen(3001, () => {
-  console.log("Server running on port 3001");
+server.listen(5001, () => {
+  console.log("Server running on port 5001");
 });
